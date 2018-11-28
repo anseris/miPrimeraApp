@@ -31,6 +31,7 @@ export class EmpleadoComponent implements OnInit {
 
   cambiarExterno(){
     this.trabajador_externo=!this.trabajador_externo;
+    
   }
 
 }
